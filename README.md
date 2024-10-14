@@ -1,6 +1,6 @@
 # Expense Tracker Application
 
-The Project Expense Tracker is a financial management tool designed to help users monitor their income and expenses efficiently. Here’s a breakdown of its features:
+The Expense Tracker is a MERN stack financial management tool designed to help users monitor their income and expenses efficiently. Here’s a breakdown of its features:
 
 ## User Authentication
 - **Sign-Up Feature:** New users can create an account by providing essential information (e.g., email, password). This ensures personalized access and data security.
